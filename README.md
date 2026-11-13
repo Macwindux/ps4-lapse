@@ -17,10 +17,11 @@ Console| PlayStation 4
 Tested firmware| 11.00
 Entry point| CSSFontFace
 Kernel exploit| Lapse
-Payload| GoldHEN 2.4b18.13 (user-supplied build)
+Payload| GoldHEN 2.4b18.14 (user-supplied build)
 Execution| Browser-based, automatic payload loading
 
 Tested successfully on one PS4 running firmware 11.00. Other firmware versions and console configurations have not been verified.
+GoldHEN 2.4b18.14 adds firmware 14.02 support; compatibility with this host has not been verified on that firmware.
 
 Usage
 
