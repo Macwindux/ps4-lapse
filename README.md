@@ -20,7 +20,7 @@ Kernel exploit| Lapse
 Payload| GoldHEN 2.4b18.14 (user-supplied build)
 Execution| Browser-based, automatic payload loading
 
-Tested successfully on one PS4 running firmware 11.00. Other firmware versions and console configurations have not been verified.
+Tested successfully with GoldHEN 2.4b18.14 on PS4 firmware 11.00. Other firmware versions and console configurations have not been verified.
 GoldHEN 2.4b18.14 adds firmware 14.02 support; compatibility with this host has not been verified on that firmware.
 
 Usage
@@ -81,6 +81,6 @@ Redistribution of bundled components must comply with their individual licenses 
 
 Project Status
 
-Experimental — tested successfully on PS4 firmware 11.00.
+Tested successfully with GoldHEN 2.4b18.14 on PS4 firmware 11.00.
 
 Contributions, technical feedback and compatibility reports are welcome.
